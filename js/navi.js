@@ -3,7 +3,7 @@ $(function(){
 
     $('#allBtn').click(function(){
        
-        $(this).toggleClass('xi-close');
+        $(this).toggleClass('fa');
         
         $('#gnb2').css('opacity',1).slideToggle();        
         
