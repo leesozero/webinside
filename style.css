@@ -102,10 +102,16 @@ header{
     border: none;
     cursor: pointer;
     padding-right:40px;
-    
-
+   
 
 }
+
+
+.fa{
+    color: #fff;
+    
+}
+
 
 .xi-bars{
     color: #fff;
