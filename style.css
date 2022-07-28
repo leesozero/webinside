@@ -101,7 +101,7 @@ header{
     background: transparent;
     border: none;
     cursor: pointer;
-    padding-right:40px;
+    
     
 
 
@@ -123,7 +123,7 @@ header{
   display: inline-block;
   transition: all 0.4s;
   box-sizing: border-box;
-  margin-right: 20px;
+  margin-right: 40px;
 }
 
 .menu-trigger {
@@ -208,6 +208,8 @@ header{
 #gnb {
     display: flex;    
     justify-content: flex-end;
+    padding-right:20px;
+
   
     
     
@@ -648,3 +650,4 @@ header{
 
    
 }
+
